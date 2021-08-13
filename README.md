@@ -5,3 +5,5 @@ KREA. - Сервис цифрового маркетинга
 С адаптивной вёрсткой
 
 Добавил на JS: Модальные окна и слайдер
+
+[Demo](https://pulesos.github.io/pulesos_dev_krean_site)
